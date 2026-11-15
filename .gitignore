@@ -1,0 +1,7 @@
+# NUNCA subir: secretos y bóveda local
+.streamlit/secrets.toml
+data/
+.venv/
+__pycache__/
+*.pyc
+secrets-para-streamlit-cloud.toml
